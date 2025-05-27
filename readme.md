@@ -1,0 +1,3 @@
+- exam.py: Extract layout from template.pptx to layout.json.
+- main.py: Generate target file (output.pptx) with slides.json and template.pptx.
+- slides.json: Structured output from LLM based on user requirements.

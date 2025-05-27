@@ -1,0 +1,20 @@
+{
+    "slides": [
+        {
+            "layout_name": "Cover 1_option 1",
+            "placeholders": {
+                "0": "Welcome to Our Journey",
+                "1": "Subtitle or Tagline Goes Here"
+            }
+        },
+        {
+            "layout_name": "Thank you_1",
+            "placeholders": {
+                "0": "Welcome to Our Journey",
+                "10": "Test Slide",
+                "11": "Thank you for your attention!",
+                "12": "We appreciate your time and interest."
+            }
+        }
+    ]
+}

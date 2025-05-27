@@ -1,0 +1,4439 @@
+{
+  "layouts": [
+    {
+      "layout_index": 0,
+      "layout_name": "Cover 1_option 1",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        }
+      ]
+    },
+    {
+      "layout_index": 1,
+      "layout_name": "Cover 2_option 1",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        }
+      ]
+    },
+    {
+      "layout_index": 2,
+      "layout_name": "Cover 3_option 1",
+      "placeholders": [
+        {
+          "idx": 35,
+          "name": "Text Placeholder 20",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 4",
+          "type": 18
+        }
+      ]
+    },
+    {
+      "layout_index": 3,
+      "layout_name": "Cover 4_option 1",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 16",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 10,
+          "name": "Text Placeholder 13",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 4,
+      "layout_name": "Cover 1_option 2",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 10,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 11,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Text Placeholder 20",
+          "type": 2
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 5,
+      "layout_name": "Cover 2_option 2",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 7",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 10,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 11,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Text Placeholder 20",
+          "type": 2
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 6,
+      "layout_name": "Cover 3_option 2",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 10,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 11,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Text Placeholder 20",
+          "type": 2
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 7,
+      "layout_name": "Cover 1_Hello",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 37,
+          "name": "Text Placeholder 38",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Content Placeholder 40",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 23",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 8,
+      "layout_name": "Cover 2_Hello",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 37,
+          "name": "Text Placeholder 38",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Content Placeholder 40",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 23",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 9,
+      "layout_name": "Cover 3_Welcome",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 39,
+          "name": "Text Placeholder 21",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Content Placeholder 40",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 23",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 10,
+      "layout_name": "Cover 4_Together",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 23",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 20",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Content Placeholder 40",
+          "type": 7
+        }
+      ]
+    },
+    {
+      "layout_index": 11,
+      "layout_name": "Messaging Divider_all in one",
+      "placeholders": [
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 12,
+      "layout_name": "Messaging Divider_driven to deliver",
+      "placeholders": [
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 13,
+      "layout_name": "Messaging Divider_one & done",
+      "placeholders": [
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 14,
+      "layout_name": "Messaging Divider_one step ahead",
+      "placeholders": [
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 15,
+      "layout_name": "Messaging Divider_we're one",
+      "placeholders": [
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 16,
+      "layout_name": "Divider 1",
+      "placeholders": [
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 17,
+      "layout_name": "Divider 2",
+      "placeholders": [
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 18,
+      "layout_name": "Divider 3",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 19,
+      "layout_name": "Divider 4",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 11,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 20,
+      "layout_name": "Agenda_6_option 1",
+      "placeholders": [
+        {
+          "idx": 16,
+          "name": "Text Placeholder 4",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 25,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 37,
+          "name": "Text Placeholder 4",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Text Placeholder 4",
+          "type": 2
+        },
+        {
+          "idx": 40,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 41,
+          "name": "Text Placeholder 4",
+          "type": 2
+        },
+        {
+          "idx": 42,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 43,
+          "name": "Text Placeholder 4",
+          "type": 2
+        },
+        {
+          "idx": 44,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 45,
+          "name": "Text Placeholder 4",
+          "type": 2
+        },
+        {
+          "idx": 46,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        }
+      ]
+    },
+    {
+      "layout_index": 21,
+      "layout_name": "2_Agenda_8_option 1",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 7",
+          "type": 1
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 46,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 47,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 48,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 49,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 50,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 51,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 52,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 53,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 54,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 55,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 56,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 57,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 58,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 59,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 60,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 61,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 62,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 63,
+          "name": "Text Placeholder 12",
+          "type": 2
+        },
+        {
+          "idx": 64,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 65,
+          "name": "Text Placeholder 12",
+          "type": 2
+        },
+        {
+          "idx": 66,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 67,
+          "name": "Text Placeholder 12",
+          "type": 2
+        },
+        {
+          "idx": 68,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 69,
+          "name": "Text Placeholder 12",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 22,
+      "layout_name": "1 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 14,
+          "name": "Content Placeholder 8",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 6",
+          "type": 1
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 23,
+      "layout_name": "2_1 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 24,
+      "layout_name": "1_1 Column",
+      "placeholders": [
+        {
+          "idx": 14,
+          "name": "Content Placeholder 8",
+          "type": 7
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 25,
+      "layout_name": "2 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 2",
+          "type": 1
+        },
+        {
+          "idx": 16,
+          "name": "Text Placeholder 11",
+          "type": 2
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 26,
+      "layout_name": "1_2 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 2",
+          "type": 1
+        },
+        {
+          "idx": 16,
+          "name": "Text Placeholder 11",
+          "type": 2
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 27,
+      "layout_name": "2 Column_highlight",
+      "placeholders": [
+        {
+          "idx": 17,
+          "name": "Text Placeholder 9",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 14,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 9",
+          "type": 1
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 28,
+      "layout_name": "1_2 Column_highlight",
+      "placeholders": [
+        {
+          "idx": 36,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 17,
+          "name": "Text Placeholder 9",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 14,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 9",
+          "type": 1
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 29,
+      "layout_name": "2 Column_image left",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Content Placeholder 8",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 30,
+      "layout_name": "1_2 Column_image left",
+      "placeholders": [
+        {
+          "idx": 35,
+          "name": "Content Placeholder 8",
+          "type": 7
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 31,
+      "layout_name": "2 Column_image right",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 9",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 32,
+      "layout_name": "1_2 Column_image right",
+      "placeholders": [
+        {
+          "idx": 36,
+          "name": "Content Placeholder 9",
+          "type": 7
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 33,
+      "layout_name": "2x2 Column",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 17",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 20",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 34,
+      "layout_name": "2_2x2 Column",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 17",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 20",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 35,
+      "layout_name": "2x2 Column_gradient highlights",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 6",
+          "type": 1
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 21,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 36,
+      "layout_name": "1_2x2 Column",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 17",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 20",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 37,
+      "layout_name": "1_2x2 Column_gradient highlights",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 6",
+          "type": 1
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 21,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 38,
+      "layout_name": "3 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 6",
+          "type": 7
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 39,
+      "layout_name": "1_3 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 6",
+          "type": 7
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 40,
+      "layout_name": "3 Column_highlight",
+      "placeholders": [
+        {
+          "idx": 17,
+          "name": "Text Placeholder 9",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 16,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 6",
+          "type": 1
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 5",
+          "type": 7
+        },
+        {
+          "idx": 37,
+          "name": "Content Placeholder 15",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 41,
+      "layout_name": "1_3 Column_highlight",
+      "placeholders": [
+        {
+          "idx": 17,
+          "name": "Text Placeholder 9",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 16,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 6",
+          "type": 1
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 5",
+          "type": 7
+        },
+        {
+          "idx": 37,
+          "name": "Content Placeholder 15",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 42,
+      "layout_name": "3 Column with gradient + stats",
+      "placeholders": [
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 25,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 29,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 31,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 32,
+          "name": "Slide Number Placeholder 10",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 15,
+          "name": "Content Placeholder 20",
+          "type": 7
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 37,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 38,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 43,
+      "layout_name": "1_3 Column with gradient + stats",
+      "placeholders": [
+        {
+          "idx": 32,
+          "name": "Slide Number Placeholder 10",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 15,
+          "name": "Content Placeholder 20",
+          "type": 7
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 25,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 29,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 31,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 37,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 38,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 44,
+      "layout_name": "3 Column_image",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 8",
+          "type": 1
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 6",
+          "type": 7
+        },
+        {
+          "idx": 37,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 45,
+      "layout_name": "1_3 Column_image",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 8",
+          "type": 1
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 6",
+          "type": 7
+        },
+        {
+          "idx": 37,
+          "name": "Content Placeholder 14",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 46,
+      "layout_name": "3x2 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 21,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 22,
+          "name": "Content Placeholder 19",
+          "type": 7
+        },
+        {
+          "idx": 23,
+          "name": "Content Placeholder 22",
+          "type": 7
+        },
+        {
+          "idx": 24,
+          "name": "Content Placeholder 25",
+          "type": 7
+        },
+        {
+          "idx": 25,
+          "name": "Content Placeholder 28",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 47,
+      "layout_name": "1_3x2 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 21,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 22,
+          "name": "Content Placeholder 19",
+          "type": 7
+        },
+        {
+          "idx": 23,
+          "name": "Content Placeholder 22",
+          "type": 7
+        },
+        {
+          "idx": 24,
+          "name": "Content Placeholder 25",
+          "type": 7
+        },
+        {
+          "idx": 25,
+          "name": "Content Placeholder 28",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 48,
+      "layout_name": "4 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 7",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 13",
+          "type": 7
+        },
+        {
+          "idx": 21,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 49,
+      "layout_name": "1_4 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 7",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 13",
+          "type": 7
+        },
+        {
+          "idx": 21,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 50,
+      "layout_name": "4x4 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 21,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 22,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 23,
+          "name": "Content Placeholder 13",
+          "type": 7
+        },
+        {
+          "idx": 24,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 51,
+      "layout_name": "1_4x4 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 17,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 18,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 19,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 21,
+          "name": "Content Placeholder 31",
+          "type": 7
+        },
+        {
+          "idx": 22,
+          "name": "Content Placeholder 10",
+          "type": 7
+        },
+        {
+          "idx": 23,
+          "name": "Content Placeholder 13",
+          "type": 7
+        },
+        {
+          "idx": 24,
+          "name": "Content Placeholder 16",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 52,
+      "layout_name": "2x1 Column",
+      "placeholders": [
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 14,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 11",
+          "type": 1
+        },
+        {
+          "idx": 15,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 53,
+      "layout_name": "1_2x1 Column",
+      "placeholders": [
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 14,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 11",
+          "type": 1
+        },
+        {
+          "idx": 15,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 54,
+      "layout_name": "1 Column 3/4 image",
+      "placeholders": [
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 48,
+          "name": "Slide Number Placeholder 6",
+          "type": 13
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 55,
+      "layout_name": "3/4 image + 3 stats_white",
+      "placeholders": [
+        {
+          "idx": 25,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 29,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 31,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 48,
+          "name": "Slide Number Placeholder 2",
+          "type": 13
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 12",
+          "type": 1
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 37,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 38,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 56,
+      "layout_name": "2/4 image + 3 stats_gradient",
+      "placeholders": [
+        {
+          "idx": 15,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 25,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 29,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 31,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 48,
+          "name": "Slide Number Placeholder 2",
+          "type": 13
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 37,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 38,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 57,
+      "layout_name": "1_2/4 image + 3 stats_gradient",
+      "placeholders": [
+        {
+          "idx": 15,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 48,
+          "name": "Slide Number Placeholder 2",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 13,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 16,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 19,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 22,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 37,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 38,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 49,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 58,
+      "layout_name": "3/4 image + 3 stats",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 25,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 29,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 31,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 48,
+          "name": "Slide Number Placeholder 2",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 37,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 38,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 59,
+      "layout_name": "4 key points_gradient banner",
+      "placeholders": [
+        {
+          "idx": 4294967295,
+          "name": "Slide Number Placeholder 17",
+          "type": 13
+        },
+        {
+          "idx": 54,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 55,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 56,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 57,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 62,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 63,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 64,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 65,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 60,
+      "layout_name": "4 key points_gradient_image_V2",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 35,
+          "name": "Slide Number Placeholder 5",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 13,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 37,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 40,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 41,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 49,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 61,
+      "layout_name": "6 key points_gradient ",
+      "placeholders": [
+        {
+          "idx": 15,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 32,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 33,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 37,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 40,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 41,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 49,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 50,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 51,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 62,
+      "layout_name": "6 key points_image",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 35,
+          "name": "Slide Number Placeholder 5",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 33,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 37,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 40,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 41,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 49,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 50,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 51,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 63,
+      "layout_name": "3 key points + images",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 32",
+          "type": 1
+        },
+        {
+          "idx": 28,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 26,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 41,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 64,
+      "layout_name": "4 key points + images",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 32",
+          "type": 1
+        },
+        {
+          "idx": 28,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 26,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 40,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 41,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 65,
+      "layout_name": "4 key points colour_image top",
+      "placeholders": [
+        {
+          "idx": 15,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 32",
+          "type": 1
+        },
+        {
+          "idx": 28,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 40,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 41,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 42,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 44,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 49,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 66,
+      "layout_name": "4 key points colour_light image_blue transparency",
+      "placeholders": [
+        {
+          "idx": 15,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 32",
+          "type": 1
+        },
+        {
+          "idx": 28,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 40,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 41,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 42,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 44,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 49,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 67,
+      "layout_name": "3 key points colour_light image top",
+      "placeholders": [
+        {
+          "idx": 28,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 39,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 40,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 15,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 32",
+          "type": 1
+        },
+        {
+          "idx": 42,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 44,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 68,
+      "layout_name": "Image + 1x2",
+      "placeholders": [
+        {
+          "idx": 15,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 32,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 33,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 24,
+          "name": "Text Placeholder 23",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 69,
+      "layout_name": "2_Image + 1x2",
+      "placeholders": [
+        {
+          "idx": 31,
+          "name": "Picture Placeholder 6",
+          "type": 18
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 32,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 33,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 24,
+          "name": "Text Placeholder 23",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 70,
+      "layout_name": "1_Image + 1x2",
+      "placeholders": [
+        {
+          "idx": 15,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 33,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 24,
+          "name": "Text Placeholder 23",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 34,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 37,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 38,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 71,
+      "layout_name": "3_Image + 1x2",
+      "placeholders": [
+        {
+          "idx": 31,
+          "name": "Picture Placeholder 6",
+          "type": 18
+        },
+        {
+          "idx": 24,
+          "name": "Text Placeholder 23",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 33,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 34,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 36,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 37,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 38,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 72,
+      "layout_name": "Image + 2x2",
+      "placeholders": [
+        {
+          "idx": 31,
+          "name": "Picture Placeholder 6",
+          "type": 18
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 32,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 9",
+          "type": 1
+        },
+        {
+          "idx": 34,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 35,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 36,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 73,
+      "layout_name": "Circle Image + 2x2",
+      "placeholders": [
+        {
+          "idx": 31,
+          "name": "Picture Placeholder 6",
+          "type": 18
+        },
+        {
+          "idx": 36,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 26,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 38,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 40,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 42,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 2",
+          "type": 1
+        },
+        {
+          "idx": 43,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 44,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 45,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 50,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 51,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 74,
+      "layout_name": "4 images",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 18,
+          "name": "Picture Placeholder 3",
+          "type": 18
+        },
+        {
+          "idx": 22,
+          "name": "Picture Placeholder 3",
+          "type": 18
+        },
+        {
+          "idx": 24,
+          "name": "Picture Placeholder 3",
+          "type": 18
+        },
+        {
+          "idx": 26,
+          "name": "Picture Placeholder 3",
+          "type": 18
+        },
+        {
+          "idx": 65,
+          "name": "Text Placeholder 22",
+          "type": 2
+        },
+        {
+          "idx": 66,
+          "name": "Text Placeholder 23",
+          "type": 2
+        },
+        {
+          "idx": 67,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 68,
+          "name": "Text Placeholder 22",
+          "type": 2
+        },
+        {
+          "idx": 69,
+          "name": "Text Placeholder 23",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 75,
+      "layout_name": "Texture 1 column + 2 stats + image",
+      "placeholders": [
+        {
+          "idx": 82,
+          "name": "Text Placeholder 13",
+          "type": 2
+        },
+        {
+          "idx": 54,
+          "name": "Picture Placeholder 13",
+          "type": 18
+        },
+        {
+          "idx": 78,
+          "name": "Content Placeholder 58",
+          "type": 7
+        },
+        {
+          "idx": 80,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 55,
+          "name": "Picture Placeholder 13",
+          "type": 18
+        },
+        {
+          "idx": 79,
+          "name": "Content Placeholder 58",
+          "type": 7
+        },
+        {
+          "idx": 81,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 67,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 76,
+      "layout_name": "1 Column and stat",
+      "placeholders": [
+        {
+          "idx": 82,
+          "name": "Text Placeholder 13",
+          "type": 2
+        },
+        {
+          "idx": 78,
+          "name": "Content Placeholder 58",
+          "type": 7
+        },
+        {
+          "idx": 80,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 84,
+          "name": "Slide Number Placeholder 6",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 77,
+      "layout_name": "1_1 Column and stat",
+      "placeholders": [
+        {
+          "idx": 82,
+          "name": "Text Placeholder 13",
+          "type": 2
+        },
+        {
+          "idx": 78,
+          "name": "Content Placeholder 58",
+          "type": 7
+        },
+        {
+          "idx": 80,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 84,
+          "name": "Slide Number Placeholder 6",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 78,
+      "layout_name": "1 Column and stat_image",
+      "placeholders": [
+        {
+          "idx": 86,
+          "name": "Picture Placeholder 3",
+          "type": 18
+        },
+        {
+          "idx": 25,
+          "name": "Picture Placeholder 3",
+          "type": 18
+        },
+        {
+          "idx": 88,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 82,
+          "name": "Text Placeholder 13",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 18",
+          "type": 1
+        },
+        {
+          "idx": 85,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 78,
+          "name": "Content Placeholder 58",
+          "type": 7
+        },
+        {
+          "idx": 80,
+          "name": "Text Placeholder 58",
+          "type": 2
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 79,
+      "layout_name": "Image collage_1",
+      "placeholders": [
+        {
+          "idx": 45,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 46,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 47,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 48,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 49,
+          "name": "Slide Number Placeholder 8",
+          "type": 13
+        },
+        {
+          "idx": 0,
+          "name": "Title 7",
+          "type": 1
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 80,
+      "layout_name": "Image collage_2",
+      "placeholders": [
+        {
+          "idx": 46,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 47,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 48,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 49,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 50,
+          "name": "Slide Number Placeholder 3",
+          "type": 13
+        },
+        {
+          "idx": 51,
+          "name": "Text Placeholder 10",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 13",
+          "type": 1
+        },
+        {
+          "idx": 35,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 81,
+      "layout_name": "1 Column and 2 images",
+      "placeholders": [
+        {
+          "idx": 71,
+          "name": "Text Placeholder 24",
+          "type": 2
+        },
+        {
+          "idx": 73,
+          "name": "Picture Placeholder 8",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 3",
+          "type": 1
+        },
+        {
+          "idx": 74,
+          "name": "Picture Placeholder 8",
+          "type": 18
+        },
+        {
+          "idx": 75,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 82,
+      "layout_name": "1 Column + 4  stats_image",
+      "placeholders": [
+        {
+          "idx": 54,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 19,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 21,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 23,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 31,
+          "name": "Text Placeholder 19",
+          "type": 2
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 45,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 53,
+          "name": "Slide Number Placeholder 4",
+          "type": 13
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 42,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 44,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 55,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 83,
+      "layout_name": "3 Column + image",
+      "placeholders": [
+        {
+          "idx": 34,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 45,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 53,
+          "name": "Slide Number Placeholder 4",
+          "type": 13
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 54,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 56,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 84,
+      "layout_name": "Team page 3",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 44,
+          "name": "Picture Placeholder 10",
+          "type": 18
+        },
+        {
+          "idx": 45,
+          "name": "Picture Placeholder 11",
+          "type": 18
+        },
+        {
+          "idx": 46,
+          "name": "Slide Number Placeholder 2",
+          "type": 13
+        },
+        {
+          "idx": 49,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 50,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 51,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 52,
+          "name": "Content Placeholder 13",
+          "type": 7
+        },
+        {
+          "idx": 53,
+          "name": "Content Placeholder 15",
+          "type": 7
+        },
+        {
+          "idx": 54,
+          "name": "Content Placeholder 17",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 85,
+      "layout_name": "Team page 4",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 41,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 45,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 49,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 53,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 55,
+          "name": "Picture Placeholder 2",
+          "type": 18
+        },
+        {
+          "idx": 56,
+          "name": "Picture Placeholder 4",
+          "type": 18
+        },
+        {
+          "idx": 57,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 58,
+          "name": "Picture Placeholder 6",
+          "type": 18
+        },
+        {
+          "idx": 59,
+          "name": "Slide Number Placeholder 7",
+          "type": 13
+        },
+        {
+          "idx": 60,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 61,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 62,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 63,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 86,
+      "layout_name": "Team page 8",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 79,
+          "name": "Slide Number Placeholder 5",
+          "type": 13
+        },
+        {
+          "idx": 41,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 45,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 49,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 53,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 55,
+          "name": "Picture Placeholder 2",
+          "type": 18
+        },
+        {
+          "idx": 56,
+          "name": "Picture Placeholder 4",
+          "type": 18
+        },
+        {
+          "idx": 57,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 58,
+          "name": "Picture Placeholder 6",
+          "type": 18
+        },
+        {
+          "idx": 60,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 61,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 62,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 63,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 80,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 81,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 82,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 83,
+          "name": "Content Placeholder 26",
+          "type": 7
+        },
+        {
+          "idx": 84,
+          "name": "Picture Placeholder 2",
+          "type": 18
+        },
+        {
+          "idx": 85,
+          "name": "Picture Placeholder 4",
+          "type": 18
+        },
+        {
+          "idx": 86,
+          "name": "Picture Placeholder 5",
+          "type": 18
+        },
+        {
+          "idx": 87,
+          "name": "Picture Placeholder 6",
+          "type": 18
+        },
+        {
+          "idx": 88,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 89,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 90,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 91,
+          "name": "Text Placeholder 7",
+          "type": 2
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 87,
+      "layout_name": "3_1 Column",
+      "placeholders": [
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 1",
+          "type": 13
+        },
+        {
+          "idx": 13,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 0,
+          "name": "Title 5",
+          "type": 1
+        },
+        {
+          "idx": 54,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 55,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 56,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 20,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 57,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 58,
+          "name": "Content Placeholder 11",
+          "type": 7
+        },
+        {
+          "idx": 59,
+          "name": "Text Placeholder 25",
+          "type": 2
+        },
+        {
+          "idx": 60,
+          "name": "Text Placeholder 25",
+          "type": 2
+        },
+        {
+          "idx": 61,
+          "name": "Text Placeholder 25",
+          "type": 2
+        },
+        {
+          "idx": 62,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 63,
+          "name": "Content Placeholder 89",
+          "type": 7
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        }
+      ]
+    },
+    {
+      "layout_index": 88,
+      "layout_name": "Quote 1",
+      "placeholders": [
+        {
+          "idx": 25,
+          "name": "Picture Placeholder 1",
+          "type": 18
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 29,
+          "name": "Text Placeholder 3",
+          "type": 2
+        },
+        {
+          "idx": 30,
+          "name": "Text Placeholder 3",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 89,
+      "layout_name": "Quote 2",
+      "placeholders": [
+        {
+          "idx": 25,
+          "name": "Picture Placeholder 1",
+          "type": 18
+        },
+        {
+          "idx": 36,
+          "name": "Text Placeholder 5",
+          "type": 2
+        },
+        {
+          "idx": 43,
+          "name": "Picture Placeholder 9",
+          "type": 18
+        },
+        {
+          "idx": 29,
+          "name": "Text Placeholder 3",
+          "type": 2
+        },
+        {
+          "idx": 30,
+          "name": "Text Placeholder 3",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 90,
+      "layout_name": "Thank you_1",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 10,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 11,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Text Placeholder 21",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 91,
+      "layout_name": "Thank you_2",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 10,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 11,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Text Placeholder 21",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 92,
+      "layout_name": "Thank you_3",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 1
+        },
+        {
+          "idx": 10,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 11,
+          "name": "Text Placeholder 8",
+          "type": 2
+        },
+        {
+          "idx": 12,
+          "name": "Text Placeholder 21",
+          "type": 2
+        }
+      ]
+    },
+    {
+      "layout_index": 93,
+      "layout_name": "Text/Bullets_centered",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title Placeholder 1",
+          "type": 1
+        },
+        {
+          "idx": 1,
+          "name": "Content Placeholder 2",
+          "type": 7
+        },
+        {
+          "idx": 10,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 3,
+          "name": "Footer Placeholder 3",
+          "type": 15
+        },
+        {
+          "idx": 4,
+          "name": "Slide Number Placeholder 5",
+          "type": 13
+        }
+      ]
+    },
+    {
+      "layout_index": 94,
+      "layout_name": "Default Slide",
+      "placeholders": []
+    },
+    {
+      "layout_index": 95,
+      "layout_name": "Title Slide",
+      "placeholders": [
+        {
+          "idx": 0,
+          "name": "Title 1",
+          "type": 3
+        },
+        {
+          "idx": 1,
+          "name": "Subtitle 2",
+          "type": 4
+        },
+        {
+          "idx": 10,
+          "name": "Date Placeholder 3",
+          "type": 16
+        },
+        {
+          "idx": 11,
+          "name": "Footer Placeholder 4",
+          "type": 15
+        },
+        {
+          "idx": 12,
+          "name": "Slide Number Placeholder 5",
+          "type": 13
+        }
+      ]
+    }
+  ]
+}
